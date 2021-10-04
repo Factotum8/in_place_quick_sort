@@ -34,11 +34,7 @@ rita
 1. Python >= 3.9
 
 ## Sources
-* /deque/deque/deque.py - main module with a algorithm logic.  
-  Project submodules:
-* /deque/main.py - provides a console tools for the deque.
-* /deque/deque/tests/test_deque.py - packages tests.
-
+pass
 
 ## RUN TEST 
 * cd into project dir
